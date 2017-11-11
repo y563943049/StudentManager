@@ -1,0 +1,2 @@
+# StudentManager
+A simple StudentManager
