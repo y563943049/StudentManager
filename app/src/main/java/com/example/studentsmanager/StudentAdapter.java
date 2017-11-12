@@ -51,7 +51,6 @@ public class StudentAdapter extends RecyclerView.Adapter<StudentAdapter.ViewHold
         holder.studentID.setText(student.getId());
         holder.studentGender.setText(student.getGender());
     }
-
     @Override
     public int getItemCount() {
         return mStudents.size();
